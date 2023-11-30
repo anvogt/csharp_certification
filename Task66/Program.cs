@@ -18,7 +18,7 @@ int SumFromMToN(int M, int N)
     int result = M;
     if (M == N)
         return 0;
-
+        
     else
     {
         M++;
